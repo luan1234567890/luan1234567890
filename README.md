@@ -1,0 +1,4 @@
+- #sobre mim
+- meu nome é @luan123456789
+-  eu estou interresado em aprender a programar novas tecnologias
+-  eu estou aprendendo a programar recentemente linguagem de javaScript e scracht
